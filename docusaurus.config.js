@@ -69,7 +69,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'technicalAndMaintenanceSidebar',
             position: 'left',
             label: 'Technical & Maintenance',
           },
