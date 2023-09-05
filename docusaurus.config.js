@@ -64,7 +64,7 @@ const config = {
         title: 'Audi-D2.com',
         logo: {
           alt: 'Audi-D2.com',
-          src: 'img/logo.svg',
+          src: 'img/logo200x200.png',
         },
         items: [
           {
