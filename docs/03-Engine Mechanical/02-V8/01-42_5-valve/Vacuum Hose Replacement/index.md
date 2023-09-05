@@ -1,3 +1,8 @@
+---
+image: ./assets/vacuum1.JPG
+keywords: [audi a8, audi s8, audi d2, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 4.2, V8, AUW, AUX, AQH, AVP, BCS, AYS]
+---
+
 # Vacuum Hose Replacement
 
 If you have a D2 A8 with a 40 valve motor and are reading this, you will need to replace your braided vacuum hoses if you haven't already. My 8 year old S8 with 84K miles had vacuum hoses that crumbled in my hands. The good news is that it is cheap and easy. An hour and $15.00 is probably all that you will need. 
