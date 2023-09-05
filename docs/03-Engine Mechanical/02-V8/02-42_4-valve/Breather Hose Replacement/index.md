@@ -1,6 +1,15 @@
 ---
 image: ./assets/breatherhoses1.JPG
-keywords: [audi a8, audi d2, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 4.2, V8, ABZ]
+keywords: [audi a8, audi d2, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 4.2, V8, ABZ, AKG]
+tags:
+   - 1994
+   - 1995
+   - 1996
+   - 1997
+   - 1998
+   - 1999
+   - ABZ
+   - AKG
 ---
 
 # Breather Hose Replacement

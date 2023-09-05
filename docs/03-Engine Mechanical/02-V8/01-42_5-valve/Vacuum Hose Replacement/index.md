@@ -1,6 +1,17 @@
 ---
 image: ./assets/vacuum1.JPG
-keywords: [audi a8, audi s8, audi d2, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 4.2, V8, AUW, AUX, AQH, AVP, BCS, AYS]
+keywords: [audi a8, audi s8, audi d2, vacuum, 1999, 2000, 2001, 2002, 4.2, V8, AUW, AUX, AQH, AVP, BCS, AYS]
+tags:
+   - 1999
+   - 2000
+   - 2001
+   - 2002
+   - AUW
+   - AUX
+   - AQH
+   - AVP
+   - BCS
+   - AYS
 ---
 
 # Vacuum Hose Replacement
