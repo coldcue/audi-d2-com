@@ -1,8 +1,9 @@
 ---
 toc_min_heading_level: 2
 toc_max_heading_level: 5
+description: "Step-by-step guide to repair fuel line leak in the 97-99 Audi A8, addressing high pressure fuel line under the hood and gas tank sending unit seal issues."
 image: ./assets/fuel1.JPG
-keywords: [audi a8, audi d2, 1997, 1998, 4.2, 3.7, v8, fuel leak, fuel, ABZ, AKG, AQG, AEW, AKJ]
+keywords: [audi a8, audi d2, 1997, 1998, 4.2, 3.7, v8, fuel leak, fuel, ABZ, AKG, AQG, AEW, AKJ, repair, fuel line]
 tags:
    - 1997
    - 1998
@@ -82,7 +83,7 @@ the gas tank.
    pressure line fittings. This is accomplished by using the 17 and 14 mm wrenches.
    
 
-![](./assets/fuel5.JPG)
+![Removal of low pressure line](./assets/fuel5.JPG 'Removal of low pressure line')
 
 > Remove low pressure line, relieve high pressure line fuel pressure.
 
@@ -95,15 +96,15 @@ the gas tank.
    fender side first, you can then take it to your work bench and remove the
    fuel rail side next in a vice or other device.
 
-![](./assets/sm_DSC_5613.jpg)
+![Cutting the fuel line fitting](./assets/sm_DSC_5613.jpg 'Cutting the fuel line fitting')
 
-![](./assets/sm_DSC_5606.jpg)
+![Cut fuel line fitting](./assets/sm_DSC_5606.jpg 'Cut fuel line fitting')
 
 2. Cut the new 5/16" fuel hose to length
 3. Put a hose clamp on each end, and slide it over the barb fittings. 
 4. Secure the hose clamp (make sure it's tight). 
 
-![](./assets/sm_DSC_5610.jpg)
+![Secured hose clamp](./assets/sm_DSC_5610.jpg 'Secured hose clamp')
 
 5. Reassemble everything and you are done!
 

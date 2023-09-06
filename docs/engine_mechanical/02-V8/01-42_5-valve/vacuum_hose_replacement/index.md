@@ -1,6 +1,7 @@
 ---
+description: "Guide on how to replace the braided vacuum hoses for a D2 A8 with a 40 valve motor. Discover the steps, tools required, and important details for this procedure."
 image: ./assets/vacuum1.JPG
-keywords: [audi a8, audi s8, audi d2, vacuum, 1999, 2000, 2001, 2002, 4.2, V8, AUW, AUX, AQH, AVP, BCS, AYS]
+keywords: [audi a8, audi s8, audi d2, vacuum hose replacement, vacuum hose, 40 valve motor, vacuum routing diagram, Paul Waterloo]
 tags:
    - 1999
    - 2000
@@ -30,27 +31,27 @@ This procedure is self explanatory. You will need to remove the engine beauty co
 
 I believe this covers all the braided hoses, the other hoses are larger or the same diameter but not braided and did not appear to be failing in any way. You would also want to do this if you have Fault Code 17831 17819 - Sec. Air Inj. Sys: Bank 2: Flow too Low. `TODO: MISSING LINK`
 
-![](./assets/vacuum1.JPG)
+![Vacuum hose routing diagram sticker](./assets/vacuum1.JPG)
 
 > Vacuum hose routing diagram sticker from under the hood. The braided hoses are denoted in the picture and then shown on the engine below. It's not that obvious until you study the diagram.
 
-![](./assets/vacuum2.JPG)
+![Vacuum hose 1](./assets/vacuum2.JPG)
 
 > Vacuum hose 1 goes to the right hand side "one way check valve". Hose 2 goes to the left hand side. This is part of the cold air start emissions equipment. To learn more about this system, read this. `TODO: MISSING LINK`
 
-![](./assets/vacuum3.JPG)
+![Back left side of the motor](./assets/vacuum3.JPG)
 
 > The picture above is the back left side of the motor.
 
-![](./assets/vacuum4.JPG)
+![Front of the motor](./assets/vacuum4.JPG)
 
 > The picture above is the front of the motor.
 
-![](./assets/vacuum5.JPG)
+![Left side of the motor](./assets/vacuum5.JPG)
 
 > The picture above is the left side of the motor, note headlight assembly.
 
-![](./assets/vacuum6.JPG)
+![Right side of the motor](./assets/vacuum6.JPG)
 
 > The picture above is the right side of the motor, note headlight assembly.
 

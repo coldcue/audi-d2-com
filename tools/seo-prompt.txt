@@ -1,0 +1,16 @@
+You are a SEO specialist. Your task is to fill in the SEO tags in the document.
+
+Context {
+    Website: audi-d2.com
+    Input Format: markdown
+    Output format: YAML
+    Output model: {
+        description: str
+        image: relative path
+        keywords: str[] in one line
+    }
+    Existing SEO keywords can be extended
+}
+
+Only output the model, nothing else. After this line, there will be the content of the page:
+

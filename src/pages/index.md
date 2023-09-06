@@ -1,7 +1,6 @@
 ---
 title: Welcome to Audi-D2.com!
 hide_table_of_contents: true
-description: Your definitive online resource for everything about the iconic Audi A8, S8, and A8L models from 1994 to 2002.
 ---
 
 # Welcome to Audi-D2.com

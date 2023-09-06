@@ -1,6 +1,7 @@
 ---
-image: ./assets/oilchange4.JPG
-keywords: [audi a8, audi s8, audi d2, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 4.2, 3.7, v8, oil change, oil filter, AUW, AUX, AQH, AVP, BCS, AYS, ABZ, AKG, AHC, AKH, AQG, AKC]
+description: "Detailed guide on how to change the oil and filter for Audi A8 and S8 D2 models from 1994 to 2002. Recommendations on oil types, intervals, tools, and step-by-step instructions."
+image: "./assets/oilchange4.JPG"
+keywords: ["audi a8", "audi s8", "audi d2", "1994", "1995", "1996", "1997", "1998", "1999", "2000", "2001", "2002", "4.2", "3.7", "v8", "oil change", "oil filter", "AUW", "AUX", "AQH", "AVP", "BCS", "AYS", "ABZ", "AKG", "AHC", "AKH", "AQG", "AKC", "4-valve", "5-valve", "viscosity", "synthetic oil", "oil change interval"]
 tags:
     - 1994
     - 1995
@@ -40,7 +41,7 @@ Audi recommends changing the oil and filter on the A8 32 valve engine every 7,50
 | 4-valve     | 7,500 mi / 12,000 km    | 15,000 mi / 24,000 km   |
 | 5-valve     | 10,000 mi / 16,000 km   | 20,000 mi / 32,000 km   |
 
-:::tip
+:::info Recommendation
 Audipages recommends changing the oil filter when changing the oil
 :::
 
@@ -48,7 +49,7 @@ Audipages recommends changing the oil filter when changing the oil
 
 There are many types and viscosity of oil. Audipages recommends using synthetic oil in your engine. There are many different views on this subject, use a quality oil of your favorite type, synthetic is not a requirement. The following chart outlines the recommended viscosity of oil.
 
-![](./assets/oilchange8.gif)
+![Viscosity chart](./assets/oilchange8.gif 'Viscosity chart')
 
 ### Tools and Supplies Required
 
@@ -102,7 +103,7 @@ Ensure your car is operated before starting the oil change. This allows the engi
  - 2 half turn plastic type at right hand wheel well
  - 2 half turn plastic type at left hand wheel well 
 
-![](./assets/oilchange7.JPG)
+![Belly pan assembly](./assets/oilchange7.JPG 'Belly pan assembly')
 
 > Remove the belly pan. How many fasteners did your car have? Make a note of what's missing and replace it next time.
 
@@ -110,7 +111,7 @@ Ensure your car is operated before starting the oil change. This allows the engi
 
 Make sure you have a LARGE drain pan, one of at least 12 quarts. There is 8 quarts of oil in the pan and it drains out fast! Place the pan under the car and using the 10 mm hex head, unscrew the oil pan drain plug and let the oil drain out. You can put your finger over the hole if you have two pairs of surgeon's gloves on to slow the flow down during the initial stages. It is also a good idea to place a large piece of cardboard on the floor below the drain pan to catch the splashing oil.
 
-![](./assets/oilchange2.JPG)
+![Oil pan drain plug](./assets/oilchange2.JPG 'Oil pan drain plug')
 
 > Oil pan drain plug. It is a 10 mm hex head.
 
@@ -118,13 +119,13 @@ Make sure you have a LARGE drain pan, one of at least 12 quarts. There is 8 quar
 
 After the oil has drained, remove the oil filter housing 10 mm hex head drain plug. Let the oil filter housing drain. Using a 13 mm socket, unbolt the oil filter housing lower cover. Drop the bolt out. To remove the filter housing lower cover, stick your hand up to hold the filter in place, and wiggle just the cover out. By holding the filter up in place, it allows more room for the lower housing cover to maneuver out. Once the lower housing cover is removed, remove the oil filter.
 
-![](./assets/oilchange3.JPG)
+![Oil filter housing](./assets/oilchange3.JPG 'Oil filter housing')
 
 > Oil filter housing lower cover with 10 mm hex head drain and 13 mm attachment bolt.
 
-![](./assets/oilchange4.JPG)
+![Oil filter housing removed](./assets/oilchange4.JPG 'Oil filter housing removed')
 
-> Oil filter housing lower cover with 10 mm hex head drain and 13 mm attachment bolt.
+> Oil filter housing removed
 
 ### Reassembly
 
@@ -134,7 +135,7 @@ After the oil has drained out, clean the housing, housing bolt and drain plugs.
 
 Using the filter and new crush washers supplied in the filter kit, put everything back together again. The oil filter kit comes with the oil filter, oil filter housing o-ring, 13 mm bolt washer and two drain plug washers.
 
-![](./assets/oilchange1.JPG)
+![Parts and Supplies](./assets/oilchange1.JPG 'Parts and Supplies')
 
 > Torque the 13 mm bolt to 18 lb-ft, the 10 mm hex head drain plugs to 26 lb-ft.
 
