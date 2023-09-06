@@ -78,7 +78,7 @@ const config = {
         ],
       },
       footer: {
-         copyright: `This site doesn't make any income and doesn't accept donations. All information is provided as-is and without warranty and is intended for informational purposes only.`,
+         copyright: `This site earns no money, doesn't take donations, and provides information only for reference, with no guarantees. We are not legally responsible for any outcomes.`,
       },
       prism: {
         theme: lightCodeTheme,
