@@ -71,50 +71,27 @@ const config = {
         items: [
           {
             type: "docSidebar",
-            sidebarId: "technicalAndMaintenanceSidebar",
-            position: "left",
+            sidebarId: "technicalMaintenanceSidebar",
             label: "Technical & Maintenance",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "upgradesSidebar",
+            label: "Upgrades",
+          },
+          {
+            to: 'useful_links',
+            label: 'Useful Links',
           },
           // {to: '/blog', label: 'Blog', position: 'right'},
           {
             to: "https://forum.audi-d2.com/",
             label: "Forum",
-            position: "left",
           },
         ],
       },
       footer: {
         copyright: `This site earns no money, doesn't take donations, and provides information only for reference, with no guarantees. We are not legally responsible for any outcomes.`,
-        links: [
-          {
-            label: 'forum.audi-d2.com',
-            href: 'http://forum.audi-d2.com/',
-          },
-          {
-            label: 'audipages.com',
-            href: 'http://www.audipages.com/',
-          },
-          {
-            label: 'audiworld.com forum',
-            href: 'https://www.audiworld.com/forums/a8-s8-d2-platform-discussion-8/',
-          },
-          {
-            label: 'audizine.com forum',
-            href: 'https://www.audizine.com/forum/forumdisplay.php/327-D2-D3-A8-S8',
-          },
-          {
-            label: 'audiownersclub.com forum',
-            href: 'https://www.audiownersclub.com/forums/forum/136-audi-a8-d2-forum/',
-          },
-          {
-            label: 'audiforums.com',
-            href: 'https://www.audiforums.com/forum/audi-a8-10/',
-          },
-          {
-            label: 'audi-sport.net forum',
-            href: 'https://www.audi-sport.net/xf/forums/a8-s8-forum.22/',
-          },
-        ],
       },
       prism: {
         theme: require('prism-react-renderer/themes/github'),
