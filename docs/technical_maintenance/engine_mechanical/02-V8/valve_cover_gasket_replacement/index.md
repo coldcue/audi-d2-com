@@ -40,7 +40,7 @@ the engine after things warm up, it’s probably the valve cover gaskets.
 Make sure you replace both valve cover gaskets at the
 same time.
 You might want to consider replacing the spark
-plugs at the same time. `TODO: MISSING LINK`
+plugs at the same time. [Check out our Spark plug replacement tutorial!](../spark_plug_replacement/)
 :::
 
 :::note Part number
