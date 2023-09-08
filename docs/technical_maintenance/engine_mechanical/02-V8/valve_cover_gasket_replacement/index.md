@@ -1,3 +1,31 @@
+---
+description: "Learn how to replace the valve cover gaskets on your Audi A8 D2. This step-by-step guide covers everything from identifying the issue to the tools required and the complete procedure."
+image: "./assets/valve_cover_backside.png"
+keywords: ["audi a8", "audi s8", "audi d2", "1994", "1995", "1996", "1997", "1998", "1999", "2000", "2001", "2002", "4.2", "3.7", "v8", "AUW", "AUX", "AQH", "AVP", "BCS", "AYS", "ABZ", "AKG", "AHC", "AKH", "AQG", "AKC", "4-valve", "5-valve", "valve cover gaskets", "engine repair", "Audi A8 maintenance", "engine leak", "valve cover replacement"]
+tags:
+    - 1994
+    - 1995
+    - 1996
+    - 1997
+    - 1998
+    - 1999
+    - 2000
+    - 2001
+    - 2002
+    - AUW
+    - AUX
+    - AQH
+    - AVP
+    - BCS
+    - AYS
+    - ABZ
+    - AKG
+    - AHC
+    - AKH
+    - AQG
+    - AKC
+---
+
 # Valve Cover Gasket Replacement
 
 If your A8 smells oily a few minutes after start up, or if
