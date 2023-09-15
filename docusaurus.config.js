@@ -54,6 +54,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      respectPrefersColorScheme: true,
       metadata: [
         {
           name: "keywords",
@@ -101,7 +102,7 @@ const config = {
       announcementBar: {
         content:
           'The content of this site is under development, and may be incomplete or inaccurate. Feedback <a href="https://forum.audi-d2.com/viewforum.php?f=53">here</a>',
-        backgroundColor: '#2e8555',
+        backgroundColor: '#c02807',
         textColor: '#FFFFFF',
       },
     }),
