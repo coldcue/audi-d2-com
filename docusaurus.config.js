@@ -105,6 +105,11 @@ const config = {
         backgroundColor: '#c02807',
         textColor: '#FFFFFF',
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
     }),
   plugins: [
     [
